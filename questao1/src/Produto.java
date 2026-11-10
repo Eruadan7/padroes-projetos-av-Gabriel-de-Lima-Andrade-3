@@ -35,7 +35,4 @@ public class Produto extends AbsObservado {
             observador.update();
         }
     }
-
-    
-    
 }
